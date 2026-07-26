@@ -9,7 +9,7 @@ This project closely replicates the design and layout of the Flipkart India webs
 
 ## 🌐 Live Demo  
 
-👉 **[Visit the Live Site]( https://soham-patil18.github.io/Flipkart-Clone/)**  
+👉 **[Visit the Live Site]( https://soham-patil18.github.io/FlipkartClone/)**  
 
 ---
 
@@ -106,7 +106,7 @@ Here are a few previews of the project:
 
 ## 👨‍💻 Author  
 
-**Ronik Bajakke**  
+**Soham patil**  
 
 - 🌍 [GitHub Profile](https://github.com/Soham-patil18)  
 - 🔗 [Live Project]( https://soham-patil18.github.io/FlipkartClone/)<br>
