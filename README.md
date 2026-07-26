@@ -9,7 +9,7 @@ This project closely replicates the design and layout of the Flipkart India webs
 
 ## 🌐 Live Demo  
 
-👉 **[Visit the Live Site](https://ronik-bajakke.github.io/FlipkartClone/)**  
+👉 **[Visit the Live Site]( https://soham-patil18.github.io/Flipkart-Clone/)**  
 
 ---
 
@@ -75,7 +75,7 @@ FlipkartClone/
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/ronik-bajakke/FlipkartClone.git
+   git clone https://github.com/Soham-patil18/FlipkartClone.git
    ```  
 2. Open the project folder  
    ```bash
@@ -108,9 +108,8 @@ Here are a few previews of the project:
 
 **Ronik Bajakke**  
 
-- 🌍 [GitHub Profile](https://github.com/ronik-bajakke)  
-- 🔗 [Live Project](https://ronik-bajakke.github.io/FlipkartClone/)<br>
-- 📧 Email: ronikbajakke172913@gmail.com<br>
-- 🌐 Portfolio: https://portfolio-nine-lyart-56.vercel.app/
+- 🌍 [GitHub Profile](https://github.com/Soham-patil18)  
+- 🔗 [Live Project]( https://soham-patil18.github.io/FlipkartClone/)<br>
+- 📧 Email: sohampatil49690@gmail.com<br>
 
 ---
